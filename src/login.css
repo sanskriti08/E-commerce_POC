@@ -1,0 +1,155 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+
+.content {
+  max-width: 500px;
+  margin: 40px 100px;
+  padding: 100px;
+  min-height:50vh; 
+  background: linear-gradient(45deg, #FC466B, #3F5EFB);
+}
+
+.signup {
+  max-width: 400px;
+  margin: 57px auto;
+  text-align: center;
+
+}
+
+.login
+{
+  max-width: 400px;
+  margin:  131px auto;
+  text-align: center;
+  
+  
+}
+.signup h2 {
+  font-size: 20px;
+  color: #082632;
+  margin-bottom: 20px;
+  margin-top: 10px;
+}
+.login h2{
+  font-size: 20px;
+  color: #082632;
+  margin-bottom: 20px;
+  margin-top: 10px;
+}
+.signup input{
+  width: 100%;
+  padding: 6px 10px;
+  margin: 20px 0;
+  border: 1px solid #ddd;
+  box-sizing: border-box;
+  display: block;
+}
+.login input{
+  width: 100%;
+  padding: 6px 10px;
+  margin: 20px 0;
+  border: 1px solid #ddd;
+  box-sizing: border-box;
+  display: block;
+}
+.a1
+{width: 100px;
+  background:#082632 ;
+  color: #fff;
+  border: 0;
+  padding: 8px;
+  cursor: pointer;
+
+}
+
+.b1
+{width: 100px;
+  background: #fff;
+  color: #082632;
+  border: 0;
+  padding: 8px;
+  cursor: pointer;
+
+}
+
+.b3
+{width: 100px;
+  color: #fff;
+  background: #082632;
+  border: 0;
+  padding: 8px;
+  cursor: pointer;
+
+}
+
+
+.b4
+{width: 100px;
+  color: #fff;
+  background: #082632;
+  border: 0;
+  padding: 8px;
+  cursor: pointer;
+
+}
+.a4
+{width: 100px;
+  color: #082632;
+  background: #fff;
+  border: 0;
+  padding: 8px;
+  cursor: pointer;
+
+}
+
+.contains
+{
+  left: 50%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display:block;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  width: 100%;
+  height: 100%;
+ padding: 30px 10px 100px 100px; 
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box; 
+  background-image: url('./bg2.jpg');
+  background-position: center; /* Center the image */
+  background-size: cover;  
+  
+  background-size: cover;
+} 
+
+
+.i{
+  background: transparent;
+    width: 200px;
+    padding: 1em;
+    margin-bottom: 2em;
+    border: none;
+    border-left: 1px solid rgba(255,255,255,0.3);
+    border-top: 1px solid rgba(255,255,255,0.3);
+    border-radius: 5000px;
+    backdrop-filter: blur(5px);
+    box-shadow: 4px 4px 60px rgba(0,0,0,0.2);
+    color: #fff;
+    font-family: Montserrat, sans-serif;
+    font-weight: 500;
+    transition: all 0.2s ease-in-out;
+    text-shadow: 2px 2px 4px
+
+
+  /* &:focus {
+    box-shadow:  inset 1px 1px 2px $color-shadow, inset -1px -1px 2px $color-white;
+  } */
+ }
+::placeholder {
+  font-family: Montserrat, sans-serif;
+  font-weight: 400;
+  color: rgb(12, 12, 12);
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.4);
+}

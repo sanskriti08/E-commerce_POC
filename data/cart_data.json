@@ -1,0 +1,53 @@
+{
+  "cart": [
+    {
+      "name": "ABC",
+      "description": "Hands-free, Hads-on Mushc Experience",
+      "price": 350,
+      "image": "./images/1.png",
+      "id": 1
+    },
+    {
+      "name": "DEF",
+      "description": "Hands-free, Hads-on Mushc Experience",
+      "price": 250,
+      "image": "./images/2.png",
+      "id": 2
+    },
+    {
+      "name": "YZA",
+      "description": "Hands-free, Hads-on Mushc Experience",
+      "price": 350,
+      "image": "./images/3.png",
+      "id": 3
+    },
+    {
+      "name": "DEF",
+      "description": "Hands-free, Hads-on Mushc Experience",
+      "price": 250,
+      "image": "./images/2.png",
+      "id": 4
+    },
+    {
+      "name": "DEF",
+      "description": "Hands-free, Hads-on Mushc Experience",
+      "price": 250,
+      "image": "./images/2.png",
+      "id": 5
+    },
+    {
+      "name": "ABC",
+      "description": "Hands-free, Hads-on Mushc Experience",
+      "price": 350,
+      "image": "./images/1.png",
+      "id": 6
+    },
+    {
+      "name": "ABC",
+      "description": "Hands-free, Hads-on Mushc Experience",
+      "price": 350,
+      "image": "./images/1.png",
+      "id": 7
+    }
+  ]
+}
